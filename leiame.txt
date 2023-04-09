@@ -1,0 +1,10 @@
+Projeto MVP SPRINT 1:
+
+mvp_sprint_1_analise_exploratoria_jardel_dos_anjos_alves
+
+
+notebooks auxiliares:
+
+00_noteboo_auxiliar_instalacao_lib_externa_jardel_dos_anjos_alves
+
+01_notebook_auxiliar_classe_extrator_jardel_dos_anjos_alves
